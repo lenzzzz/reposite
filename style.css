@@ -1,3 +1,7 @@
-body  {background: red;}
+body  {
+	background: red;
+	width: 960px;
+	margin: 0 auto;
+}
 h1{font-size: 32px;}
 body div {font-size: 20px;}
